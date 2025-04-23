@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Actuelement, j'apprends le fonctionnement des réseaux ainsi que de la cybersécurité. J'apprends à créer mon propre VPN avec Wireguard, à créer un laboratoire de test de sécuriié avec Docker...
+Actuellement, j'apprends le fonctionnement des réseaux ainsi que de la cybersécurité. J'apprends à créer mon propre VPN avec Wireguard, à créer un laboratoire de test de sécurité avec Docker...
 Mais la programmation est toujours une passion pour moi, c'est pourquoi je suis attentivement les cours de Odin Project où je m'exerce en Javascript, mais aussi html et CSS. 
 
 ![Visitors](https://img.shields.io/badge/visitors-100%2B-brightgreen?style=flat-square)
